@@ -25,4 +25,4 @@ todolist/{todoid} 	(put) --->	{
     			   "status" : true/false
 			}
 todolist/{userid} 	(get)
-todolist/{todoid} 	(delete)	
+todolist/{todoid} 	(delete)	 
