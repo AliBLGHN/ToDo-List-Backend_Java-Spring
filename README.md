@@ -1,2 +1,2 @@
 
-main bracnh a bakınız
+master branch a bakınız
