@@ -1,8 +1,6 @@
 
 Proje sadece backend olarak oluşturulmuştur.
 
-Heroku'ya Deploy edildi --> https://springboot-restful-todo-back.herokuapp.com
-
 
 /user		(get)
 /user/register	(post) --->	{
