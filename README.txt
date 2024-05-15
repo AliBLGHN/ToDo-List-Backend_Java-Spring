@@ -12,15 +12,15 @@ Proje sadece backend olarak oluşturulmuştur.
    			   "username" : string
     			   "password" : string
 			}
-todolist	           	(post) --->	{
+/todolist	(post) --->	{
    			   "text"    : string
     			   "userid" : int
     			   "status" : true/false
 			}
-todolist/{todoid} 	(put) --->	{
+/todolist/{todoid} 	(put) --->	{
    			   "text"    : string
     			   "userid" : int
     			   "status" : true/false
 			}
-todolist/{userid} 	(get)
-todolist/{todoid} 	(delete)	
+/todolist/{userid} 	(get)
+/todolist/{todoid} 	(delete)	
